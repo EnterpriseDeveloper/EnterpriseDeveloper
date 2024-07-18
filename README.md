@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack developer with Blockchain experience.
 ------------------------------------------------
 
-I am an experienced blockchain developer with solid experience of Solidity on the 2-layer blockchain network, EVM machine, and Golang with Cosmos SDK under my belt. I used technology like meta transactions, oracles, and upgradable smart contracts in my development. I have more than 6+ years of product development with different technology for front-end, back-end, and blockchain.
+I am an experienced blockchain developer with solid experience of Solidity on the 2-layer blockchain network, EVM machine, and Golang with Cosmos SDK under my belt. I used technology like meta transactions, oracles, and upgradable smart contracts in my development. I have more than 8+ years of product development with different technology for front-end, back-end, and blockchain.
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [voroshilovmax90@gmail.com](mailto:voroshilovmax90@gmail.com)
